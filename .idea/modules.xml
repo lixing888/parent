@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../parent/erueka-server/erueka-server.iml" filepath="$PROJECT_DIR$/../parent/erueka-server/erueka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent.iml" filepath="$PROJECT_DIR$/parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../parent/provide/provide.iml" filepath="$PROJECT_DIR$/../parent/provide/provide.iml" />
+    </modules>
+  </component>
+</project>
