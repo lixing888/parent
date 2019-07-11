@@ -29,6 +29,12 @@
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
+        <!-- @Data注解  自动get set 因为没有安装插件，所以这里基本不用 -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.0</version>
+        </dependency>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
